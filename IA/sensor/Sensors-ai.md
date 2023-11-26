@@ -41,7 +41,7 @@ We do this with prophet `cross_validation` and give us the comparison between ex
 ![cross-validation](https://facebook.github.io/prophet/static/diagnostics_files/diagnostics_4_0.png)
 
 You'll find in this module:
-* `sensor-forecasting.ipynb`: Notebook poc that analyze, plot and build prediction model. Run on Colab.
+* `sensor-forecasting.ipynb`: Notebook poc that analyze, plot and build prediction model. Here's also a [link of the notebook](https://colab.research.google.com/drive/1N1kwqJUR7R4a8p_EaSK0jUgyxODfwikI?usp=sharing) with cells already launched.
 * `report-sensor-iot.html`: profiling report of dataset.
 * `build_model.py`: build model locally. Install requirements needed. Use the Environmental Sensor Telemetry Data dataset.
 * `requirements.txt`: libraries, install in virtual environment. 
